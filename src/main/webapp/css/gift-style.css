@@ -1,0 +1,1944 @@
+/*========================== gift  start ===================================*/
+/* comboNums background pic */
+.room-gift-animtaion-item .gift-combo .combo-symbol,
+.room-gift-animtaion-item .gift-combo .gift-combo-element {
+  background-image: url("https://i.h2.pdim.gs/affe257645b8bf84675106db26d4761a.png");
+}
+/*========================== gift end ===================================*/
+
+
+/*========================== new gift-combo start ===================================*/
+
+.room-gift-animtaion-item.room-gift-animation-style-1 {background-color: #ff9792;}
+.room-gift-animtaion-item.room-gift-animation-style-1 .gift-info p {color: #fefdde;}
+.room-gift-animtaion-item.room-gift-animation-style-1 .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-animation-style-1 .gift-combo .gift-combo-element {
+  background-position-y: 0;
+}
+
+.room-gift-animtaion-item.room-gift-animation-style-2 {background-color: #ffafd5;}
+.room-gift-animtaion-item.room-gift-animation-style-2 .gift-info p {color: #ffebf1;}
+.room-gift-animtaion-item.room-gift-animation-style-2 .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-animation-style-2 .gift-combo .gift-combo-element {
+  background-position-y: -35px;
+}
+
+.room-gift-animtaion-item.room-gift-animation-style-3 {background-color: #f1deff;}
+.room-gift-animtaion-item.room-gift-animation-style-3 .gift-info p {color: #b59cb7;}
+.room-gift-animtaion-item.room-gift-animation-style-3 .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-animation-style-3 .gift-combo .gift-combo-element {
+  background-position-y: -70px;
+}
+
+.room-gift-animtaion-item.room-gift-animation-style-4 {background-color: #bbbbff;}
+.room-gift-animtaion-item.room-gift-animation-style-4 .gift-info p {color: #ffffff;}
+.room-gift-animtaion-item.room-gift-animation-style-4 .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-animation-style-4 .gift-combo .gift-combo-element {
+  background-position-y: -105px;
+}
+
+.room-gift-animtaion-item.room-gift-animation-style-5 {background-color: #b6cdff;}
+.room-gift-animtaion-item.room-gift-animation-style-5 .gift-info p {color: #9a9de3;}
+.room-gift-animtaion-item.room-gift-animation-style-5 .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-animation-style-5 .gift-combo .gift-combo-element {
+  background-position-y: -140px;
+}
+
+.room-gift-animtaion-item.room-gift-animation-style-6 {background-color: #b8daff;}
+.room-gift-animtaion-item.room-gift-animation-style-6 .gift-info p {color: #72aad9;}
+.room-gift-animtaion-item.room-gift-animation-style-6 .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-animation-style-6 .gift-combo .gift-combo-element {
+  background-position-y: -175px;
+}
+
+.room-gift-animtaion-item.room-gift-animation-style-7 {background-color: #99e6ff;}
+.room-gift-animtaion-item.room-gift-animation-style-7 .gift-info p {color: #38b7e1;}
+.room-gift-animtaion-item.room-gift-animation-style-7 .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-animation-style-7 .gift-combo .gift-combo-element {
+  background-position-y: -210px;
+}
+
+.room-gift-animtaion-item.room-gift-animation-style-8 {background-color: #a4f0d1;}
+.room-gift-animtaion-item.room-gift-animation-style-8 .gift-info p {color: #79cfac;}
+.room-gift-animtaion-item.room-gift-animation-style-8 .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-animation-style-8 .gift-combo .gift-combo-element {
+  background-position-y: -245px;
+}
+
+.room-gift-animtaion-item.room-gift-animation-style-9 {background-color: #80dfdb;}
+.room-gift-animtaion-item.room-gift-animation-style-9 .gift-info p {color: #32b5af;}
+.room-gift-animtaion-item.room-gift-animation-style-9 .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-animation-style-9 .gift-combo .gift-combo-element {
+  background-position-y: -280px;
+}
+
+.room-gift-animtaion-item.room-gift-animation-style-10 {background-color: #6ad8b8;}
+.room-gift-animtaion-item.room-gift-animation-style-10 .gift-info p {color: #22b5a2;}
+.room-gift-animtaion-item.room-gift-animation-style-10 .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-animation-style-10 .gift-combo .gift-combo-element {
+  background-position-y: -315px;
+}
+
+.room-gift-animtaion-item.room-gift-animation-style-11 {background-color: #ffdb49;}
+.room-gift-animtaion-item.room-gift-animation-style-11 .gift-info p {color: #dda855;}
+.room-gift-animtaion-item.room-gift-animation-style-11 .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-animation-style-11 .gift-combo .gift-combo-element {
+  background-position-y: -350px;
+}
+
+.room-gift-animtaion-item.room-gift-animation-style-12 {background-color: #ffc892;}
+.room-gift-animtaion-item.room-gift-animation-style-12 .gift-info p {color: #de9e4e;}
+.room-gift-animtaion-item.room-gift-animation-style-12 .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-animation-style-12 .gift-combo .gift-combo-element {
+  background-position-y: -385px;
+}
+
+.room-gift-animtaion-item.room-gift-animation-style-13 {background-color: #ffcabb;}
+.room-gift-animtaion-item.room-gift-animation-style-13 .gift-info p {color: #ffa085;}
+.room-gift-animtaion-item.room-gift-animation-style-13 .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-animation-style-13 .gift-combo .gift-combo-element {
+  background-position-y: -420px;
+}
+
+.room-gift-animtaion-item.room-gift-animation-style-14 {background-color: #ffb0a1;}
+.room-gift-animtaion-item.room-gift-animation-style-14 .gift-info p {color: #ffecd2;}
+.room-gift-animtaion-item.room-gift-animation-style-14 .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-animation-style-14 .gift-combo .gift-combo-element {
+  background-position-y: -455px;
+}
+
+.room-gift-animtaion-item.room-gift-animation-style-15 {background-color: #ffa058;}
+.room-gift-animtaion-item.room-gift-animation-style-15 .gift-info p {color: #ffe4b2;}
+.room-gift-animtaion-item.room-gift-animation-style-15 .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-animation-style-15 .gift-combo .gift-combo-element {
+  background-position-y: -490px;
+}
+
+.room-gift-animtaion-item.room-gift-animation-style-16 {background-color: #ff8fa4;}
+.room-gift-animtaion-item.room-gift-animation-style-16 .gift-info p {color: #ffd8e0;}
+.room-gift-animtaion-item.room-gift-animation-style-16 .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-animation-style-16 .gift-combo .gift-combo-element {
+  background-position-y: -525px;
+}
+
+.room-gift-animtaion-item.room-gift-animation-style-17 {background-color: #b094e2;}
+.room-gift-animtaion-item.room-gift-animation-style-17 .gift-info p {color: #e0d7ff;}
+.room-gift-animtaion-item.room-gift-animation-style-17 .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-animation-style-17 .gift-combo .gift-combo-element {
+  background-position-y: -560px;
+}
+
+.room-gift-animtaion-item.room-gift-animation-style-18 {background-color: #c96d99;}
+.room-gift-animtaion-item.room-gift-animation-style-18 .gift-info p {color: #fccfe4;}
+.room-gift-animtaion-item.room-gift-animation-style-18 .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-animation-style-18 .gift-combo .gift-combo-element {
+  background-position-y: -595px;
+}
+
+.room-gift-animtaion-item.room-gift-animation-style-19 {background-color: #f5715b;}
+.room-gift-animtaion-item.room-gift-animation-style-19 .gift-info p {color: #ffd0c8;}
+.room-gift-animtaion-item.room-gift-animation-style-19 .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-animation-style-19 .gift-combo .gift-combo-element {
+  background-position-y: -630px;
+}
+
+.room-gift-animtaion-item.room-gift-animation-style-20 {background-color: #ff5330;}
+.room-gift-animtaion-item.room-gift-animation-style-20 .gift-info p {color: #f5ef87;}
+.room-gift-animtaion-item.room-gift-animation-style-20 .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-animation-style-20 .gift-combo .gift-combo-element {
+  background-position-y: -665px;
+}
+
+.room-gift-animtaion-item.room-gift-animation-style-21 {background-color: #ff4e6b;}
+.room-gift-animtaion-item.room-gift-animation-style-21 .gift-info p {color: #ffe3d8;}
+.room-gift-animtaion-item.room-gift-animation-style-21 .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-animation-style-21 .gift-combo .gift-combo-element {
+  background-position-y: -700px;
+}
+
+.room-gift-animtaion-item.room-gift-animation-style-22 {background-color: #5858ae;}
+.room-gift-animtaion-item.room-gift-animation-style-22 .gift-info p {color: #a4cbec;}
+.room-gift-animtaion-item.room-gift-animation-style-22 .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-animation-style-22 .gift-combo .gift-combo-element {
+  background-position-y: -735px;
+}
+
+.room-gift-animtaion-item.room-gift-animation-style-23 {background-color: #9c2f65;}
+.room-gift-animtaion-item.room-gift-animation-style-23 .gift-info p {color: #d997b7;}
+.room-gift-animtaion-item.room-gift-animation-style-23 .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-animation-style-23 .gift-combo .gift-combo-element {
+  background-position-y: -770px;
+}
+
+.room-gift-animtaion-item.room-gift-animation-style-24 {background-color: #4c2434;}
+.room-gift-animtaion-item.room-gift-animation-style-24 .gift-info p {color: #ffb55d;}
+.room-gift-animtaion-item.room-gift-animation-style-24 .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-animation-style-24 .gift-combo .gift-combo-element {
+  background-position-y: -805px;
+}
+
+/*========================== new gift-combo end ===================================*/
+
+/*========================== gift combo start ===================================*/
+/* custom style */
+/* 佛跳墙 */
+.room-gift-animtaion-item.ftq {
+  background-color: #ff5330;
+}
+.room-gift-animtaion-item.ftq .gift-info .from-name {
+  color: #fffcc5;
+}
+.room-gift-animtaion-item.ftq .gift-combo .combo-symbol,
+.room-gift-animtaion-item.ftq .gift-combo .gift-combo-element {
+  background-position-y: -665px;
+}
+
+/* 龙虾 */
+.room-gift-animtaion-item.lx {
+  background-color: #ff9792;
+}
+.room-gift-animtaion-item.lx .gift-info p {
+  color: #fffeea;
+}
+.room-gift-animtaion-item.lx .gift-combo .combo-symbol,
+.room-gift-animtaion-item.lx .gift-combo .gift-combo-element {
+  background-position-y: 0;
+}
+
+/* 烤鱼 */
+.room-gift-animtaion-item.ky {
+  background-color: #ffdb49;
+}
+.room-gift-animtaion-item.ky .gift-info p {
+  color: #db801f;
+}
+.room-gift-animtaion-item.ky .gift-combo .combo-symbol,
+.room-gift-animtaion-item.ky .gift-combo .gift-combo-element {
+  background-position-y: -350px;
+}
+
+/* 饭团 */
+.room-gift-animtaion-item.ft {
+  height: 50px;
+  background-color: #99e6ff;
+}
+.room-gift-animtaion-item.ft .gift-info p {
+  color: #0ca9dc;
+}
+.room-gift-animtaion-item.ft .gift-info .gift-name {
+  top: 26px;
+}
+.room-gift-animtaion-item.ft .gift-combo .combo-symbol,
+.room-gift-animtaion-item.ft .gift-combo .gift-combo-element {
+  background-position-y: -210px;
+}
+
+/* 炉石特殊房间-乱斗之王 */
+.room-gift-animtaion-item.room-gift-anim-fighting .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-fighting .gift-combo .gift-combo-element {
+  background-position-y: 0;
+}
+
+/* 特殊礼物-皮皮虾 */
+.room-gift-animtaion-item.room-gift-anim-shrimp {
+  background-color: #c2d5fd;
+}
+.room-gift-animtaion-item.room-gift-anim-shrimp .gift-info p {
+  color: #84a3e7;
+}
+.room-gift-animtaion-item.room-gift-anim-shrimp .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-shrimp .gift-combo .gift-combo-element {
+  background-position-y: -175px;
+}
+
+/* 特殊礼物-666 */
+.room-gift-animtaion-item.room-gift-anim-666{
+  background-color: #ff5e59;
+}
+.room-gift-animtaion-item.room-gift-anim-666 .gift-info p {
+  color: #ff5e59;
+}
+.room-gift-animtaion-item.room-gift-anim-666 .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-666 .gift-combo .gift-combo-element {
+  background-position-y: 0;
+}
+
+/* 特殊礼物-??? */
+.room-gift-animtaion-item.room-gift-anim-q .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-q .gift-combo .gift-combo-element {
+  background-position-y: -210px;
+}
+
+/* kpl礼物-GG */
+.room-gift-animtaion-item.room-gift-anim-gg .gift-info p {
+  color: #ff5e59;
+}
+.room-gift-animtaion-item.room-gift-anim-gg .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-gg .gift-combo .gift-combo-element {
+  background-position-y: 0;
+}
+
+/* kpl礼物-总冠军 */
+.room-gift-animtaion-item.room-gift-anim-champion .gift-info p {
+  color: #4f88cb;
+}
+.room-gift-animtaion-item.room-gift-anim-champion .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-champion .gift-combo .gift-combo-element {
+  background-position-y: -175px;
+}
+
+/* 特殊礼物-烤鸭 */
+.room-gift-animtaion-item.room-gift-anim-duck {
+  background-color: #ffb054;
+}
+.room-gift-animtaion-item.room-gift-anim-duck .gift-info p {
+  color: #b8581e;
+}
+.room-gift-animtaion-item.room-gift-anim-duck .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-duck .gift-combo .gift-combo-element {
+  background-position-y: -805px;
+}
+
+/* 特殊礼物-比心 */
+.room-gift-animtaion-item.room-gift-anim-heart .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-heart .gift-combo .gift-combo-element {
+  background-position-y: 0;
+}
+
+/* 特殊礼物-扯 */
+.room-gift-animtaion-item.room-gift-anim-chitchat .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-chitchat .gift-combo .gift-combo-element {
+  background-position-y: -210px;
+}
+
+/* 特殊礼物-拥抱 */
+.room-gift-animtaion-item.room-gift-anim-embrace .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-embrace .gift-combo .gift-combo-element {
+  background-position-y: -175px;
+}
+
+/* 特殊礼物-稳 */
+.room-gift-animtaion-item.room-gift-anim-steady .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-steady .gift-combo .gift-combo-element {
+  background-position-y: -805px;
+}
+
+/* 特殊礼物-中国队加油 */
+.room-gift-animtaion-item.room-gift-anim-go .gift-info p {
+  color: #007355;
+}
+.room-gift-animtaion-item.room-gift-anim-go .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-go .gift-combo .gift-combo-element {
+  background-position-y: -315px;
+}
+
+/* 特殊礼物-扳手 */
+.room-gift-animtaion-item.room-gift-anim-spanner{
+  background-color: #ff5e59;
+}
+.room-gift-animtaion-item.room-gift-anim-spanner .gift-info p {
+  color: #ff5e59;
+}
+.room-gift-animtaion-item.room-gift-anim-spanner .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-spanner .gift-combo .gift-combo-element {
+  background-position-y: -805px;
+}
+
+/* 特殊礼物-高压锅 */
+.room-gift-animtaion-item.room-gift-anim-cooker .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-cooker .gift-combo .gift-combo-element {
+  background-position-y: -175px;
+}
+
+/* 特殊礼物-胡萝卜 */
+.room-gift-animtaion-item.room-gift-anim-carrot .gift-info p {
+  color: #00bb65;
+}
+.room-gift-animtaion-item.room-gift-anim-carrot .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-carrot .gift-combo .gift-combo-element {
+  background-position-y: -315px;
+}
+
+/* 特殊礼物-棒棒糖 */
+.room-gift-animtaion-item.room-gift-anim-lollipop .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-lollipop .gift-combo .gift-combo-element {
+  background-position-y: -70px;
+}
+
+/* 特殊礼物-气球 */
+.room-gift-animtaion-item.room-gift-anim-balloon .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-balloon .gift-combo .gift-combo-element {
+  background-position-y: -210px;
+}
+
+/* 特殊礼物-手枪 */
+.room-gift-animtaion-item.room-gift-anim-pistol .gift-info p {
+  color: #00bb65;
+}
+.room-gift-animtaion-item.room-gift-anim-pistol .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-pistol .gift-combo .gift-combo-element {
+  background-position-y: -315px;
+}
+
+/* 特殊礼物-老婆饼 */
+.room-gift-animtaion-item.room-gift-anim-cake .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-cake .gift-combo .gift-combo-element {
+  background-position-y: 0;
+}
+
+/* 特殊礼物-河蟹 */
+.room-gift-animtaion-item.room-gift-anim-crab .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-crab .gift-combo .gift-combo-element {
+  background-position-y: 0;
+}
+
+/* 特殊礼物-Boom */
+.room-gift-animtaion-item.room-gift-anim-boom .gift-info p {
+  color: #ff5e59;
+}
+.room-gift-animtaion-item.room-gift-anim-boom .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-boom .gift-combo .gift-combo-element {
+  background-position-y: 0;
+}
+
+/* 特殊礼物-国服第一 */
+.room-gift-animtaion-item.room-gift-anim-no1 .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-no1 .gift-combo .gift-combo-element {
+  background-position-y: -175px;
+}
+
+/* 特殊礼物-计算器 */
+.room-gift-animtaion-item.room-gift-anim-calc .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-calc .gift-combo .gift-combo-element {
+  background-position-y: -175px;
+}
+
+/* 特殊礼物-鱼饵 */
+.room-gift-animtaion-item.room-gift-anim-bait .gift-info p {
+  color: #ee5277;
+}
+.room-gift-animtaion-item.room-gift-anim-bait .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-bait .gift-combo .gift-combo-element {
+  background-position-y: 0;
+}
+
+/* 特殊礼物-桃汁 */
+.room-gift-animtaion-item.room-gift-anim-juice .gift-info p {
+  color: #ee5277;
+}
+.room-gift-animtaion-item.room-gift-anim-juice .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-juice .gift-combo .gift-combo-element {
+  background-position-y: 0;
+}
+
+/* 特殊礼物-菜 */
+.room-gift-animtaion-item.room-gift-anim-vegetable .gift-info p {
+  color: #66b4e4;
+}
+.room-gift-animtaion-item.room-gift-anim-vegetable .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-vegetable .gift-combo .gift-combo-element {
+  background-position-y: -210px;
+}
+
+/* 特殊礼物-盐 */
+.room-gift-animtaion-item.room-gift-anim-salt .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-salt .gift-combo .gift-combo-element {
+  background-position-y: -175px;
+}
+
+/* 特殊礼物-橘子 */
+.room-gift-animtaion-item.room-gift-anim-orange .gift-info p {
+  color: #e5851f;
+}
+.room-gift-animtaion-item.room-gift-anim-orange .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-orange .gift-combo .gift-combo-element {
+  background-position-y: -350px;
+}
+
+/* 特殊礼物-玩吧小礼物 */
+.room-gift-animtaion-item.room-gift-anim-mingift .gift-info p {
+  color: #eba13f;
+}
+.room-gift-animtaion-item.room-gift-anim-mingift .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-mingift .gift-combo .gift-combo-element {
+  background-position-y: -350px;
+}
+
+/* 特殊礼物-吃鸡 */
+.room-gift-animtaion-item.room-gift-anim-chicken .gift-info .from-name {
+  color: #FFF1DE;
+}
+.room-gift-animtaion-item.room-gift-anim-chicken .gift-info p {
+  color: #FFF1DE;
+}
+.room-gift-animtaion-item.room-gift-anim-chicken .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-chicken .gift-combo .gift-combo-element {
+  background-position-y: -350px;
+}
+
+/* 特殊礼物-神之眼 */
+.room-gift-animtaion-item.room-gift-anim-eyes .gift-info .from-name {
+  color: #ff5330;
+}
+.room-gift-animtaion-item.room-gift-anim-eyes .gift-info .from-name {
+  color: #ffb55d;
+}
+.room-gift-animtaion-item.room-gift-anim-eyes .gift-info p {
+  color: #ffb55d;
+}
+.room-gift-animtaion-item.room-gift-anim-eyes .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-eyes .gift-combo .gift-combo-element {
+  background-position-y: -805px;
+}
+
+/* 特殊礼物-啪啪打脸 */
+.room-gift-animtaion-item.room-gift-anim-face .gift-info .from-name {
+  color: #ff5330;
+}
+.room-gift-animtaion-item.room-gift-anim-face .gift-info .from-name {
+  color: #ffc73a;
+}
+.room-gift-animtaion-item.room-gift-anim-face .gift-info p {
+  color: #ffc73a;
+}
+.room-gift-animtaion-item.room-gift-anim-face .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-face .gift-combo .gift-combo-element {
+  background-position-y: -350px;
+}
+
+/* 特殊礼物-情天竹 */
+.room-gift-animtaion-item.room-gift-anim-qtz{
+  background-color: #aef99b;
+}
+.room-gift-animtaion-item.room-gift-anim-qtz .gift-info p {
+  color: #77c950;
+}
+.room-gift-animtaion-item.room-gift-anim-qtz .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-qtz .gift-combo .gift-combo-element {
+  background-position-y: -315px;
+}
+
+/* 特殊礼物-洗澡澡 */
+.room-gift-animtaion-item.room-gift-anim-wash .gift-info .from-name {
+  color: #41A8D9;
+}
+.room-gift-animtaion-item.room-gift-anim-wash .gift-info p {
+  color: #41A8D9;
+}
+.room-gift-animtaion-item.room-gift-anim-wash .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-wash .gift-combo .gift-combo-element {
+  background-position-y: -175px;
+}
+
+/* 特殊礼物-不存在的 */
+.room-gift-animtaion-item.room-gift-anim-impossible .gift-info .from-name {
+  color: #fffbf6;
+}
+.room-gift-animtaion-item.room-gift-anim-impossible .gift-info p {
+  color: #fffbf6;
+}
+.room-gift-animtaion-item.room-gift-anim-impossible .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-impossible .gift-combo .gift-combo-element {
+  background-position-y: -350px;
+}
+
+/* 特殊礼物-打脸 */
+.room-gift-animtaion-item.room-gift-anim-smackface .gift-info .from-name {
+  color: #3fb28c;
+}
+.room-gift-animtaion-item.room-gift-anim-smackface .gift-info p {
+  color: #3fb28c;
+}
+.room-gift-animtaion-item.room-gift-anim-smackface .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-smackface .gift-combo .gift-combo-element {
+  background-position-y: -70px;
+}
+
+/* 特殊礼物-就是混 */
+.room-gift-animtaion-item.room-gift-anim-dawdling .gift-info .from-name {
+  color: #fff;
+}
+.room-gift-animtaion-item.room-gift-anim-dawdling .gift-info p {
+  color: #fff;
+}
+.room-gift-animtaion-item.room-gift-anim-dawdling .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-dawdling .gift-combo .gift-combo-element {
+  background-position-y: -175px;
+}
+
+/* 特殊礼物-么么哒 */
+.room-gift-animtaion-item.room-gift-anim-memeda .gift-info .from-name {
+  color: #2dbfb8;
+}
+.room-gift-animtaion-item.room-gift-anim-memeda .gift-info p {
+  color: #2dbfb8;
+}
+.room-gift-animtaion-item.room-gift-anim-memeda .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-memeda .gift-combo .gift-combo-element {
+  background-position-y: -315px;
+}
+
+/* 特殊礼物-瞎 */
+.room-gift-animtaion-item.room-gift-anim-blind .gift-info p {
+  color: #39abc8;
+}
+.room-gift-animtaion-item.room-gift-anim-blind .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-blind .gift-combo .gift-combo-element {
+  background-position-y: -210px;
+}
+
+/* 特殊礼物-爱洛 */
+.room-gift-animtaion-item.room-gift-anim-ailuo .gift-info p {
+  color: #f06967;
+}
+.room-gift-animtaion-item.room-gift-anim-ailuo .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-ailuo .gift-combo .gift-combo-element {
+  background-position-y: 0;
+}
+
+/* 特殊礼物-猫仔 */
+.room-gift-animtaion-item.room-gift-anim-maozai .gift-info p {
+  color: #007355;
+}
+.room-gift-animtaion-item.room-gift-anim-maozai .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-maozai .gift-combo .gift-combo-element {
+  background-position-y: -315px;
+}
+
+/* 特殊礼物-葱 */
+.room-gift-animtaion-item.room-gift-anim-cong .gift-info p {
+  color: #dec24c;
+}
+.room-gift-animtaion-item.room-gift-anim-cong .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-cong .gift-combo .gift-combo-element {
+  background-position-y: -805px;
+}
+
+/* 特殊礼物-菠萝包 */
+.room-gift-animtaion-item.room-gift-anim-boluobao .gift-info p {
+  color: #d38e30;
+}
+.room-gift-animtaion-item.room-gift-anim-boluobao .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-boluobao .gift-combo .gift-combo-element {
+  background-position-y: -350px;
+}
+
+/* 特殊礼物-泡面 */
+.room-gift-animtaion-item.room-gift-anim-paomian .gift-info p {
+  color: #f8ecce;
+}
+.room-gift-animtaion-item.room-gift-anim-paomian .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-paomian .gift-combo .gift-combo-element {
+  background-position-y: -805px;
+}
+
+/* 特殊礼物-jk短裙 */
+.room-gift-animtaion-item.room-gift-anim-jk .gift-info p {
+  color: #ffdcd4;
+}
+.room-gift-animtaion-item.room-gift-anim-jk .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-jk .gift-combo .gift-combo-element {
+  background-position-y: 0;
+}
+
+ /* 特殊礼物-打鸡 */
+.room-gift-animtaion-item.room-gift-anim-daji .gift-info p {
+  color: #f34491;
+}
+.room-gift-animtaion-item.room-gift-anim-daji .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-daji .gift-combo .gift-combo-element {
+  background-position-y: 0;
+}
+
+/* 特殊礼物-一万八 */
+.room-gift-animtaion-item.room-gift-anim-1w8 .gift-info p {
+  color: #f06967;
+}
+.room-gift-animtaion-item.room-gift-anim-1w8 .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-1w8 .gift-combo .gift-combo-element {
+  background-position-y: 0;
+}
+
+/* 特殊礼物-神龙 */
+.room-gift-animtaion-item.room-gift-anim-dragon .gift-info p {
+  color: #39abc8;
+}
+.room-gift-animtaion-item.room-gift-anim-dragon .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-dragon .gift-combo .gift-combo-element {
+   background-position-y: -210px;
+}
+
+/* 特殊礼物-口罩 */
+.room-gift-animtaion-item.room-gift-anim-kouzhao .gift-info p {
+  color: #32b5af;
+}
+.room-gift-animtaion-item.room-gift-anim-kouzhao .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-kouzhao .gift-combo .gift-combo-element {
+   background-position-y: -210px;
+}
+
+/* 特殊礼物-蛤蟆皮 */
+.room-gift-animtaion-item.room-gift-anim-hamap .gift-info p {
+  color: #72aad9;
+}
+.room-gift-animtaion-item.room-gift-anim-hamap .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-hamap .gift-combo .gift-combo-element {
+   background-position-y: -175px;
+}
+
+/* 特殊礼物-无敌 */
+.room-gift-animtaion-item.room-gift-anim-wudi .gift-info p {
+  color: #79cfac;
+}
+.room-gift-animtaion-item.room-gift-anim-wudi .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-wudi .gift-combo .gift-combo-element {
+   background-position-y: -245px;
+}
+
+/* 特殊礼物-丫脖 */
+.room-gift-animtaion-item.room-gift-anim-yabo .gift-info p {
+  color: #38b7e1;
+}
+.room-gift-animtaion-item.room-gift-anim-yabo .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-yabo .gift-combo .gift-combo-element {
+   background-position-y: -210px;
+}
+
+/* 特殊礼物-正义地球人 */
+.room-gift-animtaion-item.room-gift-anim-diqiuren .gift-info p {
+  color: #38b7e1;
+}
+.room-gift-animtaion-item.room-gift-anim-diqiuren .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-diqiuren .gift-combo .gift-combo-element {
+   background-position-y: -210px;
+}
+
+/* 特殊礼物-呼啦圈 */
+.room-gift-animtaion-item.room-gift-anim-hulaquan .gift-info p {
+  color: #38b7e1;
+}
+.room-gift-animtaion-item.room-gift-anim-hulaquan .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-hulaquan .gift-combo .gift-combo-element {
+   background-position-y: -210px;
+}
+
+/* 特殊礼物-比翼双飞 */
+.room-gift-animtaion-item.room-gift-anim-biyifly .gift-info p {
+   color: #b59cb7;
+}
+.room-gift-animtaion-item.room-gift-anim-biyifly .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-biyifly .gift-combo .gift-combo-element {
+   background-position-y: -70px;
+}
+
+/* 特殊礼物-品客薯片 */
+.room-gift-animtaion-item.room-gift-anim-pinke .gift-info p {
+   color: #ffe3d8;
+}
+.room-gift-animtaion-item.room-gift-anim-pinke .gift-combo .combo-symbol,
+.room-gift-animtaion-item.room-gift-anim-pinke .gift-combo .gift-combo-element {
+   background-position-y: -700px;
+}
+/*========================== gift combo end ===================================*/
+
+
+/*========================== h5player banner start ============================*/
+/* 能量池预警 */
+.h5player-gift-banner-energy-ready .h5player-gift-banner-background {
+  border-radius: 6px;
+  background-color: #c86d98;
+}
+.h5player-gift-banner-energy-ready .h5player-gift-banner-background:before,
+.h5player-gift-banner-energy-ready .h5player-gift-banner-background:after {
+  display: none;
+}
+.h5player-gift-banner-energy-ready .h5player-gift-banner-background .h5player-gift-banner-text {
+  color: #ffdd99;
+  margin-left: -50px;
+}
+.h5player-gift-banner-energy-ready .h5player-gift-banner-animation {
+  position: absolute;
+  top: -8px;
+  left: 5px;
+  width: 150px;
+  height: 150px;
+  background-image: url(https://i.h2.pdim.gs/5dcd494bdca07698eef99ee58f84d022.png);
+  -webkit-transform: scale(.85);
+  -ms-transform: scale(.85);
+  transform: scale(.85);
+  -webkit-transform-origin: 0 0;
+  -ms-transform-origin: 0 0;
+  transform-origin: 0 0;
+  -webkit-animation: energy-ready 1s infinite step-start;
+  animation: energy-ready 1s infinite step-start;
+}
+.h5player-gift-banner-energy-ready .h5player-gift-banner-background .h5player-gift-banner-tail {
+  display: none;
+}
+
+/* 能量池爆炸 */
+.h5player-gift-banner-energy-bomb .h5player-gift-banner-background {
+  border-radius: 6px;
+  background-color: #c86d98;
+}
+.h5player-gift-banner-energy-bomb .h5player-gift-banner-background:before,
+.h5player-gift-banner-energy-bomb .h5player-gift-banner-background:after {
+  display: none;
+}
+.h5player-gift-banner-energy-bomb .h5player-gift-banner-background .h5player-gift-banner-text {
+  color: #ffdd99;
+  margin-left: -50px;
+}
+.h5player-gift-banner-energy-bomb .h5player-gift-banner-background .h5player-gift-banner-text .h5player-gift-banner-username {
+  color: #fee934;
+  margin-right: 10px;
+}
+.h5player-gift-banner-energy-bomb .h5player-gift-banner-animation {
+  position: absolute;
+  top: 0px;
+  left: -46px;
+  width: 201px;
+  height: 150px;
+  background-image: url(https://i.h2.pdim.gs/ea058e24cad22e612947d68abb10e2b1.png);
+  -webkit-transform: scale(.85);
+  -ms-transform: scale(.85);
+  transform: scale(.85);
+  -webkit-transform-origin: 0 0;
+  -ms-transform-origin: 0 0;
+  transform-origin: 0 0;
+  -webkit-animation: energy-bomb 1s infinite step-start;
+  animation: energy-bomb 1s infinite step-start;
+}
+.h5player-gift-banner-energy-bomb .h5player-gift-banner-background .h5player-gift-banner-tail {
+  display: none;
+}
+
+/*金色佛跳墙*/
+.h5player-gift-banner-goldftq .h5player-gift-banner-background {
+  height: 44px;
+  background-color: #f1a063;
+  border: 2px solid #fbf46f;
+  border-radius: 7px;
+}
+.h5player-gift-banner-goldftq .h5player-gift-banner-background:before {
+   display: none;
+}
+.h5player-gift-banner-goldftq .h5player-gift-banner-background:after {
+   display: none;
+}
+.h5player-gift-banner-goldftq .h5player-gift-banner-background .h5player-gift-banner-tail {
+   display: block;
+   top: -17px;
+   right: -13px;
+   width: 27px;
+   height: 42px;
+   background: url(https://i.h2.pdim.gs/16eddb7bf06a7da64210a1e97716c163.png) no-repeat;
+ }
+.h5player-gift-banner-goldftq .h5player-gift-banner-background .h5player-gift-banner-text {
+ color: #fff;
+}
+.h5player-gift-banner-goldftq .h5player-gift-banner-background .h5player-gift-banner-text .h5player-gift-banner-username {
+ color: #fee934;
+}
+.h5player-gift-banner-goldftq .h5player-gift-banner-animation {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 361px;
+  height: 132px;
+  background-image: url(https://i.h2.pdim.gs/6880c0152f299d8dbdbed5664b820204.png);
+  -webkit-transform: scale(.85);
+  -ms-transform: scale(.85);
+  transform: scale(.85);
+  -webkit-transform-origin: 0 0;
+  -ms-transform-origin: 0 0;
+  transform-origin: 0 0;
+  -webkit-animation: banner 1s infinite step-start;
+  animation: banner 1s infinite step-start;
+}
+
+/* 能量池中大奖 */
+.h5player-gift-banner-energy-bigprize .h5player-gift-banner-background {
+  height: 44px;
+  background-color: #f1a063;
+  border: 2px solid #fbf46f;
+  border-radius: 7px;
+}
+.h5player-gift-banner-energy-bigprize .h5player-gift-banner-background:before {
+   display: none;
+}
+.h5player-gift-banner-energy-bigprize .h5player-gift-banner-background:after {
+   display: none;
+}
+.h5player-gift-banner-energy-bigprize .h5player-gift-banner-background .h5player-gift-banner-tail {
+   display: block;
+   top: -17px;
+   right: -13px;
+   width: 27px;
+   height: 42px;
+   background: url(https://i.h2.pdim.gs/16eddb7bf06a7da64210a1e97716c163.png) no-repeat;
+ }
+.h5player-gift-banner-energy-bigprize .h5player-gift-banner-background .h5player-gift-banner-text {
+ color: #fff;
+}
+.h5player-gift-banner-energy-bigprize .h5player-gift-banner-background .h5player-gift-banner-text .h5player-gift-banner-username {
+ color: #fee934;
+}
+.h5player-gift-banner-energy-bigprize .h5player-gift-banner-animation {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 361px;
+  height: 132px;
+  background-image: url(https://i.h2.pdim.gs/6880c0152f299d8dbdbed5664b820204.png);
+  -webkit-transform: scale(.85);
+  -ms-transform: scale(.85);
+  transform: scale(.85);
+  -webkit-transform-origin: 0 0;
+  -ms-transform-origin: 0 0;
+  transform-origin: 0 0;
+  -webkit-animation: banner 1s infinite step-start;
+  animation: banner 1s infinite step-start;
+}
+/** 能量池横幅动画 **/
+
+@keyframes energy-bomb{
+  0%{
+    background-position: 0px -0px;
+    }
+  6.25%{
+    background-position: 0px -150px;
+    }
+  12.5%{
+    background-position: 0px -300px;
+    }
+  18.75%{
+    background-position: 0px -450px;
+    }
+  25%{
+    background-position: 0px -600px;
+    }
+  31.25%{
+    background-position: 0px -750px;
+    }
+  37.5%{
+    background-position: 0px -900px;
+    }
+  43.75%{
+    background-position: 0px -1050px;
+    }
+  50%{
+    background-position: 0px -1200px;
+    }
+  56.25%{
+    background-position: 0px -1350px;
+    }
+  62.5%{
+    background-position: 0px -1500px;
+    }
+  68.75%{
+    background-position: 0px -1650px;
+    }
+  75%{
+    background-position: 0px -1800px;
+    }
+  81.25%{
+    background-position: 0px -1950px;
+    }
+  87.5%{
+    background-position: 0px -2100px;
+    }
+  93.75%{
+    background-position: 0px -2250px;
+    }
+  100%{
+    background-position: 0px -2250px;
+  }
+
+}
+
+@keyframes energy-ready {
+  0% {
+    background-position: 0px -0px;
+  }
+  5% {
+    background-position: 0px -150px;
+  }
+  10% {
+    background-position: 0px -300px;
+  }
+  15% {
+    background-position: 0px -450px;
+  }
+  20% {
+    background-position: 0px -600px;
+  }
+  25% {
+    background-position: 0px -750px;
+  }
+  30% {
+    background-position: 0px -900px;
+  }
+  35% {
+    background-position: 0px -1050px;
+  }
+  40% {
+    background-position: 0px -1200px;
+  }
+  45% {
+    background-position: 0px -1350px;
+  }
+  50% {
+    background-position: 0px -1500px;
+  }
+  55% {
+    background-position: 0px -1650px;
+  }
+  60% {
+    background-position: 0px -1800px;
+  }
+  65% {
+    background-position: 0px -1950px;
+  }
+  70% {
+    background-position: 0px -2100px;
+  }
+  75% {
+    background-position: 0px -2250px;
+  }
+  80% {
+    background-position: 0px -2400px;
+  }
+  85% {
+    background-position: 0px -2550px;
+  }
+  90% {
+    background-position: 0px -2700px;
+  }
+  95% {
+    background-position: 0px -2850px;
+  }
+  100% {
+    background-position: 0px -2850px;
+  }
+}
+
+@keyframes energy-bigprize {
+  0% {
+    background-position: 0px -0px;
+  }
+  8.333% {
+    background-position: 0px -150px;
+  }
+  16.666% {
+    background-position: 0px -300px;
+  }
+  25% {
+    background-position: 0px -450px;
+  }
+  33.333% {
+    background-position: 0px -600px;
+  }
+  41.666% {
+    background-position: 0px -750px;
+  }
+  50% {
+    background-position: 0px -900px;
+  }
+  58.333% {
+    background-position: 0px -1050px;
+  }
+  66.666% {
+    background-position: 0px -1200px;
+  }
+  75% {
+    background-position: 0px -1350px;
+  }
+  83.333% {
+    background-position: 0px -1500px;
+  }
+  91.666% {
+    background-position: 0px -1650px;
+  }
+  100% {
+    background-position: 0px -1650px;
+  }
+}
+
+/* 烤鸭 */
+.h5player-gift-banner-duck {
+  height: 88px;
+}
+.h5player-gift-banner-duck .h5player-gift-banner-background {
+  border-radius: 6px;
+  margin: 50px 0 0 56px;
+  padding: 0 5px 0 48px;
+  background-color: #ff6643;
+}
+.h5player-gift-banner-duck .h5player-gift-banner-background:before,
+.h5player-gift-banner-duck .h5player-gift-banner-background:after {
+  display: none;
+}
+.h5player-gift-banner-duck .h5player-gift-banner-background .h5player-gift-banner-text {
+  color: #ffdd99;
+}
+.h5player-gift-banner-duck .h5player-gift-banner-background .h5player-gift-banner-text .h5player-gift-banner-username {
+  color: #a5ffa6;
+}
+.h5player-gift-banner-duck .h5player-gift-banner-animation {
+  position: absolute;
+  top: 10px;
+  left: 0;
+  width: 100px;
+  height: 94px;
+  background: url(https://i.h2.pdim.gs/c2b30a78580eddf9aee20c91fee6033d.png) 0 0 no-repeat;
+}
+.h5player-gift-banner-duck .h5player-gift-banner-background .h5player-gift-banner-tail {
+  display: none;
+}
+/* 车站 */
+.h5player-gift-banner-station {
+  height: 88px;
+}
+.h5player-gift-banner-station .h5player-gift-banner-background {
+  border-radius: 6px;
+  margin: 50px 0 0 56px;
+  padding: 0 5px 0 79px;
+  background-color: #ff9792;
+}
+.h5player-gift-banner-station .h5player-gift-banner-background:before{
+  border-top: 20px solid #ff9792;
+}
+.h5player-gift-banner-station .h5player-gift-banner-background:after {
+  border-bottom: 20px solid #ff9792;
+}
+.h5player-gift-banner-station .h5player-gift-banner-background .h5player-gift-banner-text {
+  color: #fff;
+}
+.h5player-gift-banner-station .h5player-gift-banner-background .h5player-gift-banner-text .h5player-gift-banner-username {
+  color: #fbff00;
+}
+.h5player-gift-banner-station .h5player-gift-banner-animation {
+  position: absolute;
+  top: 10px;
+  left: 0;
+  width: 131px;
+  height: 94px;
+  background: url(https://i.h2.pdim.gs/a80bfdddfbb3e4e645868c4536123fb4.png) no-repeat;
+}
+.h5player-gift-banner-station .h5player-gift-banner-background .h5player-gift-banner-tail {
+  display: none;
+}
+/* 香蕉球 */
+.h5player-gift-banner-banana {
+  height: 88px;
+}
+.h5player-gift-banner-banana .h5player-gift-banner-background {
+  height: 32px;
+  line-height: 32px;
+  border-radius: 6px;
+  margin: 41px 0 0 30px;
+  padding: 0 15px 0 70px;
+  background-color: #5958ad;
+  border: 2px solid #3a3a9b;
+}
+.h5player-gift-banner-banana .h5player-gift-banner-background:before,
+.h5player-gift-banner-banana .h5player-gift-banner-background:after {
+  display: none;
+}
+.h5player-gift-banner-banana .h5player-gift-banner-background .h5player-gift-banner-text {
+  margin-top: -7px;
+  color: #fff;
+}
+.h5player-gift-banner-banana .h5player-gift-banner-background .h5player-gift-banner-text .h5player-gift-banner-username {
+  color: #fbff00;
+}
+.h5player-gift-banner-banana .h5player-gift-banner-animation {
+  position: absolute;
+  top: 10px;
+  left: 0;
+  width: 95px;
+  height: 70px;
+  background: url(https://i.h2.pdim.gs/e85d29924e77f714cd481578f2edd768.png) no-repeat;
+}
+.h5player-gift-banner-banana .h5player-gift-banner-background .h5player-gift-banner-tail {
+    display: block;
+    top: -33px;
+    right: -20px;
+    width: 30px;
+    height: 70px;
+    background: url(https://i.h2.pdim.gs/7fb30f7970c1058a4ad80066f67b8b65.png) no-repeat;
+}
+/* 流星雨 */
+.h5player-gift-banner-331 .h5player-gift-banner-background {
+   background-color: #9e87ff;
+   margin-top: 60px;
+}
+.h5player-gift-banner-331 .h5player-gift-banner-background .h5player-gift-banner-text {
+   color: #fff;
+   margin-left: -50px;
+   margin-right: 50px;
+}
+.h5player-gift-banner-331 .h5player-gift-banner-background .h5player-gift-banner-text .h5player-gift-banner-username {
+    color: #ffe700;
+}
+.h5player-gift-banner-331 .h5player-gift-banner-background .h5player-gift-banner-tail {
+    display: block;
+    top: -38px;
+    right: -20px;
+    width: 113px;
+    height: 83px;
+    background: url(https://i.h2.pdim.gs/854a4b89908d775b440a94910bd5be18.png) no-repeat;
+}
+.h5player-gift-banner-331 .h5player-gift-banner-background:before {
+    border-top: 20px solid #9e87ff;
+}
+.h5player-gift-banner-331 .h5player-gift-banner-background:after {
+    border-bottom: 20px solid #9e87ff;
+}
+.h5player-gift-banner-331 .h5player-gift-banner-animation {
+    position: absolute;
+    top: -18px;
+    left: -17px;
+    width: 150px;
+    height: 140px;
+    background-image: url(https://i.h2.pdim.gs/f055f7736901fd0c98aa371da04dc1aa.png);
+    -webkit-transform-origin: 0 0;
+    -ms-transform-origin: 0 0;
+    transform-origin: 0 0;
+    -webkit-animation: liuxingyu 1s infinite step-start;
+    animation: liuxingyu 1s infinite step-start;
+}
+/* 星颜流星雨横幅 */
+@keyframes liuxingyu {
+  0%{
+    background-position: 0px -0px;
+  }
+  3.333%{
+    background-position: 0px -141px;
+  }
+  6.666%{
+    background-position: 0px -282px;
+  }
+  10%{
+    background-position: 0px -423px;
+  }
+  13.333%{
+    background-position: 0px -564px;
+  }
+  16.666%{
+    background-position: 0px -704px;
+  }
+  20%{
+    background-position: 0px -844px;
+  }
+  23.333%{
+    background-position: 0px -984px;
+  }
+  26.666%{
+    background-position: 0px -1124px;
+  }
+  30%{
+    background-position: 0px -1264px;
+  }
+  33.333%{
+    background-position: 0px -1404px;
+  }
+  36.666%{
+    background-position: 0px -1544px;
+  }
+  40%{
+    background-position: 0px -1684px;
+  }
+  43.333%{
+    background-position: 0px -1824px;
+  }
+  46.666%{
+    background-position: 0px -1964px;
+  }
+  50%{
+    background-position: 0px -2104px;
+  }
+  53.333%{
+    background-position: 0px -2244px;
+  }
+  56.666%{
+    background-position: 0px -2385px;
+  }
+  60%{
+    background-position: 0px -2526px;
+  }
+  63.333%{
+    background-position: 0px -2667px;
+  }
+  66.666%{
+    background-position: 0px -2808px;
+  }
+  70%{
+    background-position: 0px -2949px;
+  }
+  73.333%{
+    background-position: 0px -3090px;
+  }
+  76.666%{
+    background-position: 0px -3231px;
+  }
+  80%{
+    background-position: 0px -3372px;
+  }
+  83.333%{
+    background-position: 0px -3513px;
+  }
+  86.666%{
+    background-position: 0px -3654px;
+  }
+  90%{
+    background-position: 0px -3795px;
+  }
+  93.333%{
+    background-position: 0px -3936px;
+  }
+  96.666%{
+    background-position: 0px -4077px;
+  }
+}
+ /** 热气球横幅 **/
+.h5player-gift-banner-332 .h5player-gift-banner-background {
+    height: 36px;
+    color: #fff;
+    background-color: #ff7b7b;
+    border: 2px solid #ffdbda;
+    padding: 0 37px 0 150px;
+    border-radius: 16px;
+}
+
+.h5player-gift-banner-332 .h5player-gift-banner-background .h5player-gift-banner-text {
+    height: 32px;
+    line-height: 32px;
+    color: #fff;
+    margin-left: 0;
+}
+
+.h5player-gift-banner-332 .h5player-gift-banner-background .h5player-gift-banner-text .h5player-gift-banner-username {
+    color: #ffe639;
+}
+
+.h5player-gift-banner-332 .h5player-gift-banner-background .h5player-gift-banner-text .h5player-gift-banner-icon-num {
+    vertical-align: sub;
+    -webkit-transform: scale(.9) translateY(-4px);
+    -ms-transform: scale(.9) translateY(-4px);
+    transform: scale(.9) translateY(-4px);
+}
+
+.h5player-gift-banner-332 .h5player-gift-banner-background .h5player-gift-banner-tail {
+    display: block;
+    position: absolute;
+    top: -15px;
+    right: 0;
+    width: 34px;
+    height: 41px;
+    background: url(https://i.h2.pdim.gs/7ffaa90305de2b6e4688347bd949fbb6.png) no-repeat;
+}
+
+.h5player-gift-banner-332 .h5player-gift-banner-background:after {
+    display: none;
+}
+
+.h5player-gift-banner-332 .h5player-gift-banner-background::before {
+    display: none;
+}
+
+.h5player-gift-banner-332 .h5player-gift-banner-animation {
+    position: absolute;
+    top: -20px;
+    left: 15px;
+    width: 207px;
+    height: 176px;
+    background-image: url(https://i.h2.pdim.gs/9891aaeedcb986de2ebaa38b65b82005.png);
+    -webkit-transform: scale(.85);
+    -ms-transform: scale(.85);
+    transform: scale(.85);
+    -webkit-transform-origin: 0 0;
+    -ms-transform-origin: 0 0;
+    transform-origin: 0 0;
+    -webkit-animation: fireBalloon 1s infinite step-start;
+    animation: fireBalloon 1s infinite step-start;
+}
+/** 热气球横幅 **/
+
+@keyframes fireBalloon {
+    0% {
+        background-position: 0 0;
+    }
+
+    1.96% {
+        background-position: 0 -176px;
+    }
+
+    3.921% {
+        background-position: 0 -352px;
+    }
+
+    5.882% {
+        background-position: 0 -528px;
+    }
+
+    7.843% {
+        background-position: 0 -704px;
+    }
+
+    9.803% {
+        background-position: 0 -880px;
+    }
+
+    11.764% {
+        background-position: 0 -1056px;
+    }
+
+    13.725% {
+        background-position: 0 -1232px;
+    }
+
+    15.686% {
+        background-position: 0 -1408px;
+    }
+
+    17.647% {
+        background-position: 0 -1584px;
+    }
+
+    19.607% {
+        background-position: 0 -1760px;
+    }
+
+    21.568% {
+        background-position: 0 -1936px;
+    }
+
+    23.529% {
+        background-position: 0 -2112px;
+    }
+
+    25.49% {
+        background-position: 0 -2288px;
+    }
+
+    27.45% {
+        background-position: 0 -2464px;
+    }
+
+    29.411% {
+        background-position: 0 -2640px;
+    }
+
+    31.372% {
+        background-position: 0 -2816px;
+    }
+
+    33.333% {
+        background-position: 0 -2992px;
+    }
+
+    35.294% {
+        background-position: 0 -3168px;
+    }
+
+    37.254% {
+        background-position: 0 -3344px;
+    }
+
+    39.215% {
+        background-position: 0 -3520px;
+    }
+
+    41.176% {
+        background-position: 0 -3696px;
+    }
+
+    43.137% {
+        background-position: 0 -3872px;
+    }
+
+    45.098% {
+        background-position: 0 -4048px;
+    }
+
+    47.058% {
+        background-position: 0 -4224px;
+    }
+
+    49.019% {
+        background-position: 0 -4400px;
+    }
+
+    50.98% {
+        background-position: 0 -4576px;
+    }
+
+    52.941% {
+        background-position: 0 -4752px;
+    }
+
+    54.901% {
+        background-position: 0 -4928px;
+    }
+
+    56.862% {
+        background-position: 0 -5104px;
+    }
+
+    58.823% {
+        background-position: 0 -5280px;
+    }
+
+    60.784% {
+        background-position: 0 -5456px;
+    }
+
+    62.745% {
+        background-position: 0 -5632px;
+    }
+
+    64.705% {
+        background-position: 0 -5808px;
+    }
+
+    66.666% {
+        background-position: 0 -5984px;
+    }
+
+    68.627% {
+        background-position: 0 -6160px;
+    }
+
+    70.588% {
+        background-position: 0 -6336px;
+    }
+
+    72.549% {
+        background-position: 0 -6512px;
+    }
+
+    74.509% {
+        background-position: 0 -6688px;
+    }
+
+    76.47% {
+        background-position: 0 -6864px;
+    }
+
+    78.431% {
+        background-position: 0 -7040px;
+    }
+
+    80.392% {
+        background-position: 0 -7216px;
+    }
+
+    82.352% {
+        background-position: 0 -7392px;
+    }
+
+    84.313% {
+        background-position: 0 -7568px;
+    }
+
+    86.274% {
+        background-position: 0 -7744px;
+    }
+
+    88.235% {
+        background-position: 0 -7920px;
+    }
+
+    90.196% {
+        background-position: 0 -8096px;
+    }
+
+    92.156% {
+        background-position: 0 -8272px;
+    }
+
+    94.117% {
+        background-position: 0 -8448px;
+    }
+
+    96.078% {
+        background-position: 0 -8624px;
+    }
+
+    98.039% {
+        background-position: 0 -8800px;
+    }
+}
+
+
+/*========================== h5player banner end ============================*/
+
+/*========================== h5player danmu start ============================*/
+.h5player-danmu .danmaku-cmt .h5player-msg-animate-container {
+  display: inline-flex;
+  font-size: 16px;
+  text-shadow: none;
+}
+.h5player-danmu .danmaku-cmt .h5player-msg-animate-container .h5player-msg-animate-head{
+  position: relative;
+  float: left;
+  width: 72px;
+  height: 72px;
+  background-image: url(https://i.h2.pdim.gs/2e36798ce293bafb22efc29b1a655e41.png);
+  -webkit-animation: lionHeader 1s infinite step-start;
+  animation: lionHeader 1s infinite step-start;
+  z-index: 1;
+}
+
+.h5player-danmu .danmaku-cmt .h5player-msg-animate-container .h5player-msg-animate-mid {
+    float: left;
+    height: 70px;
+    margin-left: -55px;
+    background-image: url(https://i.h2.pdim.gs/0ea07c4a4fe7615854a151a84e05af8f.png);
+    background-position: 0px -2px;
+    z-index: 0;
+}
+
+
+.h5player-danmu .danmaku-cmt .h5player-msg-animate-container .h5player-msg-animate-mid .h5player-msg-animate-text{
+   margin-top: 25px;
+   padding: 0 5px 0 55px;
+   color: #fff;
+}
+
+.h5player-danmu .danmaku-cmt .h5player-msg-animate-container .h5player-msg-animate-mid .h5player-msg-animate-text .icon-panda-emoji-static {
+    margin: -5px 2px 0 2px;
+}
+.h5player-danmu .danmaku-cmt .h5player-msg-animate-container .h5player-msg-animate-tail {
+    float: left;
+    width: 32px;
+    height: 70px;
+    background-position: 0 -4px;
+    background-image: url(https://i.h2.pdim.gs/2a4dcbb6f1fae315beb22887f1b75031.png);
+}
+
+@keyframes lionHeader{
+  0%{
+    background-position: 0px -0px;
+    }
+  3.225%{
+    background-position: 0px -72px;
+    }
+  6.451%{
+    background-position: 0px -144px;
+    }
+  9.677%{
+    background-position: 0px -216px;
+    }
+  12.903%{
+    background-position: 0px -288px;
+    }
+  16.129%{
+    background-position: 0px -360px;
+    }
+  19.354%{
+    background-position: 0px -432px;
+    }
+  22.58%{
+    background-position: 0px -504px;
+    }
+  25.806%{
+    background-position: 0px -576px;
+    }
+  29.032%{
+    background-position: 0px -648px;
+    }
+  32.258%{
+    background-position: 0px -720px;
+    }
+  35.483%{
+    background-position: 0px -792px;
+    }
+  38.709%{
+    background-position: 0px -864px;
+    }
+  41.935%{
+    background-position: 0px -936px;
+    }
+  45.161%{
+    background-position: 0px -1008px;
+    }
+  48.387%{
+    background-position: 0px -1080px;
+    }
+  51.612%{
+    background-position: 0px -1152px;
+    }
+  54.838%{
+    background-position: 0px -1224px;
+    }
+  58.064%{
+    background-position: 0px -1296px;
+    }
+  61.29%{
+    background-position: 0px -1368px;
+    }
+  64.516%{
+    background-position: 0px -1440px;
+    }
+  67.741%{
+    background-position: 0px -1512px;
+    }
+  70.967%{
+    background-position: 0px -1584px;
+    }
+  74.193%{
+    background-position: 0px -1656px;
+    }
+  77.419%{
+    background-position: 0px -1728px;
+    }
+  80.645%{
+    background-position: 0px -1800px;
+    }
+  83.87%{
+    background-position: 0px -1872px;
+    }
+  87.096%{
+    background-position: 0px -1944px;
+    }
+  90.322%{
+    background-position: 0px -2016px;
+    }
+  93.548%{
+    background-position: 0px -2088px;
+    }
+  96.774%{
+    background-position: 0px -2160px;
+    }
+}
+
+@-webkit-keyframes lionHeader{
+  0%{
+    background-position: 0px -0px;
+    }
+  3.225%{
+    background-position: 0px -72px;
+    }
+  6.451%{
+    background-position: 0px -144px;
+    }
+  9.677%{
+    background-position: 0px -216px;
+    }
+  12.903%{
+    background-position: 0px -288px;
+    }
+  16.129%{
+    background-position: 0px -360px;
+    }
+  19.354%{
+    background-position: 0px -432px;
+    }
+  22.58%{
+    background-position: 0px -504px;
+    }
+  25.806%{
+    background-position: 0px -576px;
+    }
+  29.032%{
+    background-position: 0px -648px;
+    }
+  32.258%{
+    background-position: 0px -720px;
+    }
+  35.483%{
+    background-position: 0px -792px;
+    }
+  38.709%{
+    background-position: 0px -864px;
+    }
+  41.935%{
+    background-position: 0px -936px;
+    }
+  45.161%{
+    background-position: 0px -1008px;
+    }
+  48.387%{
+    background-position: 0px -1080px;
+    }
+  51.612%{
+    background-position: 0px -1152px;
+    }
+  54.838%{
+    background-position: 0px -1224px;
+    }
+  58.064%{
+    background-position: 0px -1296px;
+    }
+  61.29%{
+    background-position: 0px -1368px;
+    }
+  64.516%{
+    background-position: 0px -1440px;
+    }
+  67.741%{
+    background-position: 0px -1512px;
+    }
+  70.967%{
+    background-position: 0px -1584px;
+    }
+  74.193%{
+    background-position: 0px -1656px;
+    }
+  77.419%{
+    background-position: 0px -1728px;
+    }
+  80.645%{
+    background-position: 0px -1800px;
+    }
+  83.87%{
+    background-position: 0px -1872px;
+    }
+  87.096%{
+    background-position: 0px -1944px;
+    }
+  90.322%{
+    background-position: 0px -2016px;
+    }
+  93.548%{
+    background-position: 0px -2088px;
+    }
+  96.774%{
+    background-position: 0px -2160px;
+    }
+}
+
+.h5player-danmu .dm-rid-61241478 .h5player-msg-animate-container .h5player-msg-animate-head,
+.h5player-danmu .dm-rid-37660140 .h5player-msg-animate-container .h5player-msg-animate-head {
+  width: 78px;
+  height: 65px;
+  background-image: url(https://i.h2.pdim.gs/bd06b57e22ca38df89cae0f0abb42554.png);
+  animation: none;
+}
+
+.h5player-danmu .dm-rid-61241478 .h5player-msg-animate-container .h5player-msg-animate-mid,
+.h5player-danmu .dm-rid-37660140 .h5player-msg-animate-container .h5player-msg-animate-mid {
+    margin-left: -55px;
+    background-image: none;
+}
+
+.h5player-danmu .dm-rid-61241478 .h5player-msg-animate-container .h5player-msg-animate-mid .h5player-msg-animate-text,
+.h5player-danmu .dm-rid-37660140 .h5player-msg-animate-container .h5player-msg-animate-mid .h5player-msg-animate-text {
+   padding: 0 10px 0 45px;
+   color: #fff;
+   background: #80cd64;
+   border-radius: 10px;
+}
+
+.h5player-danmu .dm-rid-61241478 .h5player-msg-animate-container .h5player-msg-animate-tail,
+.h5player-danmu .dm-rid-37660140 .h5player-msg-animate-container .h5player-msg-animate-tail {
+    display: none;
+}
+
+/* 夏日回馈大竹弹幕*/
+.h5player-danmu .dm-animate-summer .h5player-msg-animate-container .h5player-msg-animate-head {
+  width: 88px;
+  height: 65px;
+  background-image: url(https://i.h2.pdim.gs/07640f3843335941d9a6628e1b883608.png);
+  animation: none;
+}
+
+.h5player-danmu .dm-animate-summer .h5player-msg-animate-container .h5player-msg-animate-mid
+{
+    margin-left: -50px;
+    background-image: none;
+}
+
+.h5player-danmu .dm-animate-summer .h5player-msg-animate-container .h5player-msg-animate-mid .h5player-msg-animate-text{
+   border-radius: 10px;
+   background: #80cd64;
+   height:36px !important;
+   line-height: 36px;
+   padding-left: 40px;
+}
+
+.h5player-danmu .dm-animate-summer .h5player-msg-animate-container .h5player-msg-animate-tail
+{
+    display: none;
+}
+/* 七夕弹幕*/
+.h5player-danmu .dm-animate-qixi .h5player-msg-animate-container .h5player-msg-animate-head {
+  width: 136px;
+  height: 100px;
+  background-image: url(https://i.h2.pdim.gs/efc322ce5f8344c30939c93bd6a27172.png);
+  animation: none;
+}
+
+.h5player-danmu .dm-animate-qixi .h5player-msg-animate-container .h5player-msg-animate-mid
+{
+    margin-left: -50px;
+    background-image: none;
+}
+
+.h5player-danmu .dm-animate-qixi .h5player-msg-animate-container .h5player-msg-animate-mid .h5player-msg-animate-text{
+   border-radius: 10px;
+   background: #ff8fa4;
+   height: 46px !important;
+   line-height: 46px;
+   padding-left: 54px;
+   padding-right: 10px;
+   margin-top: 43px;
+}
+
+.h5player-danmu .dm-animate-qixi .h5player-msg-animate-container .h5player-msg-animate-tail
+{
+    margin-left: -10px;
+    float: left;
+    width: 55px;
+    height: 100px;
+    background-position: 0 0;
+    background-image: url(https://i.h2.pdim.gs/db7641d0b9b2105077699ffef5aa9995.png);
+}
+/*========================== h5player danmu end ============================*/ 
+
+/*========================== user level icon start ============================*/ 
+/* 史诗 段位 */                           
+                                          
+.icon-level-41 { 
+  display: inline-block;
+  width: 50px;                    
+  height: 14px;                   
+  zoom: 1;                        
+  background: url(https://i.h2.pdim.gs/edac899e2a57d023e3129f157cec5106.gif) no-repeat;
+}                                         
+                                          
+.icon-level-42 {                          
+  display: inline-block;
+  width: 50px;                    
+  height: 14px;                   
+  zoom: 1;                        
+  background: url(https://i.h2.pdim.gs/5bf0306e041698d23cfe596aab5814bd.gif) no-repeat;
+}                                         
+                                          
+.icon-level-43 {                          
+  display: inline-block;
+  width: 50px;                    
+  height: 14px;                   
+  zoom: 1;                        
+  background: url(https://i.h2.pdim.gs/eb8a310e47b0af6b8cbdc2e13f5a7941.gif) no-repeat;
+}                                         
+                                          
+.icon-level-44 {                          
+  display: inline-block;
+  width: 50px;                    
+  height: 14px;                   
+  zoom: 1;                        
+  background: url(https://i.h2.pdim.gs/17fadce21552cc7e2546627bbabe010e.gif) no-repeat;
+}                                         
+                                          
+.icon-level-45 {                          
+  display: inline-block;
+  width: 50px;                    
+  height: 14px;                   
+  zoom: 1;                        
+  background: url(https://i.h2.pdim.gs/a2de7e6440a38b7edce7713a4d594162.gif) no-repeat;
+}
+/*========================== user level icon end ============================*/

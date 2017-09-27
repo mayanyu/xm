@@ -16,5 +16,21 @@
   </dependencies>
   <build>
     <finalName>xm</finalName>
+    <plugins>
+      <plugin>
+        <groupId>org.apache.tomcat.maven</groupId>
+        <artifactId>tomcat7-maven-plugin</artifactId>
+        <version>2.2</version>
+        <configuration>
+          <url>http://67.209.182.180:80/manager/text</url>
+          <httpPort>80</httpPort>
+          <!--<url>http://172.16.163.138:8888/manager/text</url>-->
+          <!--<httpPort>8888</httpPort>-->
+          <path>/</path>
+          <username>mayanyu</username>
+          <password>oo233233</password>
+        </configuration>
+      </plugin>
+    </plugins>
   </build>
 </project>
